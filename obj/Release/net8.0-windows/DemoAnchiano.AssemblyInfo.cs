@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoAnchiano")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92c0aa975fecb4d62e86aa13658f5535542dd467")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoAnchiano")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoAnchiano")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
